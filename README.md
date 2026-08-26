@@ -416,6 +416,7 @@ Table of content
 * [memprobe.dev](https://memprobe.dev) - ELF firmware analysis as a web app, CLI, and GitHub Action. Break down flash and RAM usage by section, file, library, and symbol, compare builds, track project history and memory growth over time, and set CI size budgets.
 * [SiliconRig](https://siliconrig.dev) - Cloud-hosted embedded boards (ESP32-S3, STM32, RP2350) for remote flashing, serial console, and hardware-in-the-loop testing in CI. Open-source CLI, Python SDK, and GitHub Action.
 * [Velxio](https://velxio.dev) - Fully local, open source Arduino simulator with real AVR8, RP2040 and ESP32 emulation, a visual circuit canvas and an in-browser code editor. Runs in the browser or self-hosted via Docker.
+* [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
 
 ## Tips & tricks
 
